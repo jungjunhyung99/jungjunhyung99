@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=JungJunHyung)
+</div>
 
 <!--
 **jungjunhyung99/jungjunhyung99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=jungjunhyung99&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-</div>

@@ -2,7 +2,7 @@
     
 <div align="center">
 
-    ![header](https://capsule-render.vercel.app/api?type=cylinder&text=JungJunHyung)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=JungJunHyung)
 <div>
     
 <h3 align="center">📚 Tech Stack 📚</h3>

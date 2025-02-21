@@ -34,7 +34,9 @@ jobs:
         run: |
           git config --local user.name 'jungjunhyung99'
           git config --local user.email 'humor12@nate.com'
-          if [ -n "$(git status --porcelain)" ]; then
+
+          # 📌 변경된 파일이 있는지 확인
+          if [ -n "$(git status --porcelain README.md)" ]; then
             git add README.md
             git commit -m 'Update README with latest blog posts'
             git push origin main

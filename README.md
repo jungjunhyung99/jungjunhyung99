@@ -5,8 +5,9 @@
 A Front-End Developer from South Korea.
 <br />
 
-- 🏢 Tmax GAIA - 2024.06 ~ 2024.12
-- 📕 Co-organizer of the Bundang Developers' Group - 2024.09 ~
+- 👨‍🎓 KWANGWOON UNIVERSITY, Department of Software
+- 💼 Tmax GAIA (2024.06 ~ 2024.12)
+- 📢 Co-organizer, Bundang Developers' Group (2024.09 ~)
   <br />
 
 ## 📚 Tech Stack 📚

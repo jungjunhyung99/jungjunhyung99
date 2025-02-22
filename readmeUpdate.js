@@ -25,13 +25,12 @@ const parser = new Parser({
     latestPosts += `- [${title}](${link})\n`;
   }
 
-  // 기존 README.md에 최신 블로그 포스트 추가
-  const newReadmeContent = readmeContent.includes("## 📕Latest Blog Posts")
+  const newReadmeContent = readmeContent.includes("## 📕 Latest Blog Posts")
     ? readmeContent.replace(
-        /### Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
-        latestPosts
+        /## 📕 Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
+        `## 📕 Latest Blog Posts\n${latestPosts}`
       )
-    : readmeContent + latestPosts;
+    : readmeContent + `\n\n## 📕 Latest Blog Posts\n${latestPosts}`;
 
   if (newReadmeContent !== readmeContent) {
     writeFileSync(readmePath, newReadmeContent, "utf8");

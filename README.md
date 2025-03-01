@@ -29,9 +29,9 @@ A Front-End Developer from South Korea.
 </div>
 
 ## 📕 Latest Blog Posts
+- [컴포넌트를 라이브러리로 관리해보자구요?](https://humor12.tistory.com/40)
 - [Storybook addon 기능으로 개발 생산성 올려보자!](https://humor12.tistory.com/39)
 - [React Spring Bottom Sheet으로 간편하게 Bottom Sheet 만들자](https://humor12.tistory.com/38)
 - [프론트엔드 개발자가 보기에 어떤 코드가 좋은 코드일까?](https://humor12.tistory.com/37)
 - [MSW(Mock Service Worker)로 API 개발 지연에 대응해보기](https://humor12.tistory.com/36)
-- [Tanstack Query(React-Query)로 무한 스크롤 구현해보기](https://humor12.tistory.com/34)
 

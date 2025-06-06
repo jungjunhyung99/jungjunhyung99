@@ -7,7 +7,7 @@ A Front-End Developer from South Korea.
 
 - 👨‍🎓 KWANGWOON UNIVERSITY, Department of Software
 - 💼 Hyundai Autoever (2025.04 ~ )
-- Tmax GAIA (2024.06 ~ 2024.12)
+  - Tmax GAIA (2024.06 ~ 2024.12)
 - 📢 Co-organizer, Bundang Developers' Group (2024.09 ~)
   <br />
 
@@ -30,9 +30,9 @@ A Front-End Developer from South Korea.
 </div>
 
 ## 📕 Latest Blog Posts
+
 - [2025년 상반기 현대오토에버 최종 합격 후기](https://humor12.tistory.com/41)
 - [컴포넌트를 라이브러리로 관리해보자구요?](https://humor12.tistory.com/40)
 - [Storybook addon 기능으로 개발 생산성 올려보자!](https://humor12.tistory.com/39)
 - [React Spring Bottom Sheet으로 간편하게 Bottom Sheet 만들자](https://humor12.tistory.com/38)
 - [프론트엔드 개발자가 보기에 어떤 코드가 좋은 코드일까?](https://humor12.tistory.com/37)
-
